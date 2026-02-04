@@ -1,2 +1,14 @@
 <h1>{{title}}</h1>
 <p>{{tagline}}</p>
+
+<ul>
+  {{#each trips}}
+    <li>
+      <h3>{{name}} ({{code}})</h3>
+      <p><strong>Length:</strong> {{length}}</p>
+      <p><strong>Price:</strong> {{price}}</p>
+      <p><strong>Rating:</strong> {{rating}}</p>
+      <p>{{description}}</p>
+    </li>
+  {{/each}}
+</ul>

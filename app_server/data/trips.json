@@ -1,0 +1,26 @@
+[
+  {
+    "code": "NYC",
+    "name": "New York City",
+    "length": "5 days",
+    "price": "$1,500",
+    "rating": 4,
+    "description": "Experience the city that never sleeps with iconic landmarks, Broadway shows, and world-class dining."
+  },
+  {
+    "code": "PAR",
+    "name": "Paris",
+    "length": "7 days",
+    "price": "$2,300",
+    "rating": 5,
+    "description": "Explore romance, art, and history in the heart of France, from the Eiffel Tower to the Louvre."
+  },
+  {
+    "code": "TOK",
+    "name": "Tokyo",
+    "length": "6 days",
+    "price": "$2,100",
+    "rating": 5,
+    "description": "Discover a blend of tradition and technology in Japan’s bustling capital."
+  }
+]
